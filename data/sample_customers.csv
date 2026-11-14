@@ -1,0 +1,21 @@
+customer_id,name,age,email
+C001,John Smith,25,john@gmail.com
+C002,Mary Jones,32,mary@gmail.com
+C003,Peter Adams,28,peter@gmail.com
+C004,Sarah Brown,45,sarah@gmail.com
+C005,David Wilson,17,david@gmail.com
+C006,Lisa White,29,lisa@gmail.com
+C007,,34,missingname@gmail.com
+C008,James Taylor,41,james@gmail.com
+C009,Emma Davis,27,emma@gmail.com
+C010,Robert Green,150,robert@gmail.com
+C011,Olivia Martin,31,olivia@gmail.com
+C012,Michael Lee,22,
+C001,John Smith,25,john@gmail.com
+C014,Sophia Clark,38,sophiaexample.com
+C015,Daniel Lewis,19,daniel@gmail.com
+C016,Ava Walker,-5,ava@gmail.com
+C017,Noah Hall,26,noah@gmail.com
+C018,Isabella Young,30,isabella@gmail.com
+C019,Lucas King,40,lucas@gmail.com
+C020,Amelia Scott,24,amelia@gmail.com

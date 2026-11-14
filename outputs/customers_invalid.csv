@@ -1,0 +1,8 @@
+customer_id,name,age,email,errors
+C005,David Wilson,17,david@gmail.com,Age must be between 18 and 100
+C007,,34,missingname@gmail.com,Missing customer name
+C010,Robert Green,150,robert@gmail.com,Age must be between 18 and 100
+C012,Michael Lee,22,,Missing email
+C001,John Smith,25,john@gmail.com,Duplicate customer ID
+C014,Sophia Clark,38,sophiaexample.com,Invalid email format
+C016,Ava Walker,-5,ava@gmail.com,Age must be between 18 and 100
